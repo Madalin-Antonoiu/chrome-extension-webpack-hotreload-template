@@ -1,0 +1,10 @@
+{
+    "name": "Chrome Ext with Webpack",
+    "version": "0.1",
+    "description": "Build a chrome extension with webpack included",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "manifest_version": 2
+}
